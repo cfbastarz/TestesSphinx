@@ -44,4 +44,4 @@ Testes de documentação com o Sphinx.
 
 # Referência
 
-* ![Instalando Sphinx](https://ostueker.github.io/Example_Fortran/UsingSphinxFortran.html#installing-sphinx)
+* [Instalando Sphinx](https://ostueker.github.io/Example_Fortran/UsingSphinxFortran.html#installing-sphinx)
