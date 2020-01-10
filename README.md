@@ -1,14 +1,12 @@
 # TestesSphinx
 
-Testes de documentação com o Sphinx.
+Testes de documentação com o Sphinx. Versão do conda 4.7.12.
 
 ## Instalação do Sphinx com suporte ao Fortran
 
     conda create -n Sphinx-Fortran python=2
 
-    source activate Sphinx-Fortran
-
-    source activate Sphinx-Fortran
+    conda activate Sphinx-Fortran
 
     conda install sphinx sphinx_rtd_theme
 
