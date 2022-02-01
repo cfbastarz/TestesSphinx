@@ -1,6 +1,6 @@
 # TestesSphinx
 
-Testes de documentação com o Sphinx. Versão do conda 4.7.12.
+Testes de documentação com o Sphinx. Versão do conda 4.11.0.
 
 ## Instalação do Sphinx com suporte ao Fortran
 
